@@ -24,10 +24,11 @@
 
 ## **Chem**  
 - **Notes**: [Google Doc](https://docs.google.com/document/d/14QHK_8F_GVSySYPsaWhC4_cEEf90pRqR/edit?usp=sharing&ouid=101603521438849568321&rtpof=true&sd=true)  
-- **Notes**: [IB Dead Weebly](https://ib-dead.weebly.com/ib-chemistry.html)  
+- **Notes**: [IB Dead Weebly](https://ib-dead.weebly.com/ib-chemistry.html)
+- **Notes**: [ibchemistree](https://www.ibchemistree.org/) *(old syllabus but still good)*
 - **Labs**: [Google Doc Labs](https://docs.google.com/document/d/1SQFW0X47boZSyhGeH-RgWnqtxjf6p1d3B4UZZ_TGH-8/edit?usp=sharing)  
 
 ---
 
 ## **Notes**  
-- Last updated: [02/27/2025]  
+- Last updated: [03/28/2025]  
